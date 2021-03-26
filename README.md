@@ -1,1 +1,3 @@
-# iate-student-repository2021
+# Information
+* Студент группы ИВТ-Б20
+* Глинкин Владислав Денисович
